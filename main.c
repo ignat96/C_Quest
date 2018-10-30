@@ -202,7 +202,7 @@ void sorting(int option){
 			}
 		break;
 
-		// Inserts sorting
+		// Select sorting
 		case 2:
 			temp = 0;
 			for (int i = 0; i < size; i++){
